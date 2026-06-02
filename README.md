@@ -38,9 +38,11 @@ Es un instrumento + VJ tool todo-en-uno que corre en el navegador, sin instalar 
 - **Ventana de salida** independiente para mandar la visual a un proyector / segunda pantalla.
 
 ### 💾 Sesión
-- **REC** para grabar la salida.
-- Guardar / cargar sesión.
+- **REC** graba el audio.
+- **VID** graba **video + audio** (la visual que se ve en pantalla) — listo para subir a redes.
+- Guardar / cargar sesión (recuerda género, escala, efectos y todo el estado).
 - Pantalla completa.
+- 📲 **Instalable y offline:** se puede instalar como app y funciona sin internet (incluido Milkdrop).
 
 ---
 
@@ -67,8 +69,23 @@ Hecho por **Ravenlight** 🦅
 - [jpupper](https://github.com/jpupper)
 
 ### Librerías usadas
-- [butterchurn](https://github.com/jberg/butterchurn) + presets — visuales estilo Milkdrop.
+- [butterchurn](https://github.com/jberg/butterchurn) + presets — visuales estilo Milkdrop (incluidas en `libs/` para que funcione offline).
 - Web Audio API · WebGL · Web MIDI · MediaRecorder (todo nativo del navegador).
+
+---
+
+## Hoja de ruta (próximas mejoras)
+
+- [ ] Editor de patrón a mano (grilla de pasos clickeable).
+- [ ] Varios presets con nombre + compartir por link.
+- [ ] Exportar por pistas separadas (stems).
+- [ ] Captura/GIF de muestra para este README.
+
+---
+
+## Licencia
+
+[MIT](LICENSE) — usalo, modificalo y compartilo libremente, manteniendo el crédito.
 
 ---
 

@@ -1,0 +1,19 @@
+{
+  "name": "Psytrance Studio",
+  "short_name": "PsyStudio",
+  "description": "Generador audiovisual en vivo: música electrónica generativa + visuales WebGL. Por Ravenlight.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#05010f",
+  "theme_color": "#05010f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

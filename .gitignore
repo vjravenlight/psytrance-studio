@@ -1,0 +1,18 @@
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Temporales
+*.log
+*.tmp
+node_modules/
+
+# Grabaciones exportadas desde la app
+psystudio_*.webm
+psystudio_*.mp4
