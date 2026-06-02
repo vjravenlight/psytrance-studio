@@ -63,6 +63,9 @@ Hecho por **Ravenlight** 🦅
 - 📸 Instagram: [@vjravenlight](https://www.instagram.com/vjravenlight)
 - 🎛️ Demo: [ravenlight.net/psy](https://www.ravenlight.net/psy)
 
+### Colaboradores
+- [jpupper](https://github.com/jpupper)
+
 ### Librerías usadas
 - [butterchurn](https://github.com/jberg/butterchurn) + presets — visuales estilo Milkdrop.
 - Web Audio API · WebGL · Web MIDI · MediaRecorder (todo nativo del navegador).
