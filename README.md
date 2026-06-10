@@ -1,8 +1,10 @@
-# ▚ PSYTRANCE STUDIO
+# ⚒ RAVE FORGE
 
-**Generador audiovisual en vivo, en un solo archivo HTML.** La máquina genera música
-electrónica (psytrance, techno y más) en tiempo real con Web Audio API, mientras pinta
+**La forja de raves: generador audiovisual en vivo, en un solo archivo HTML.** La máquina
+genera música electrónica de **17 géneros** en tiempo real con Web Audio API, mientras pinta
 visuales WebGL reactivas al sonido. Pensado para tocar en vivo y proyectar.
+
+> Antes conocido como *Psytrance Studio* — se renombró al sumar géneros más allá del psy.
 
 🎛️ **Demo online:** [ravenlight.net/psy](https://www.ravenlight.net/psy)
 
@@ -13,7 +15,10 @@ visuales WebGL reactivas al sonido. Pensado para tocar en vivo y proyectar.
 Es un instrumento + VJ tool todo-en-uno que corre en el navegador, sin instalar nada.
 
 ### 🔊 Motor de sonido
-- **Géneros** seleccionables (psytrance, techno, hard, DnB…) desde el título.
+- **17 géneros** seleccionables desde el título, afinados a cómo suena cada estilo de verdad:
+  - **Psy:** Psytrance · Full-On · Goa · Prog Psy · Dark Psy · Forest · Hi-Tech · Zenonesque
+  - **Techno/Trance:** Trance · Techno · Acid Techno · Hard Techno · Hardstyle
+  - **Otros:** House · Dubstep · Drum & Bass · Witch House
 - **Secuenciador generativo** que evoluciona solo: `Evolve`, `Mutate` y `Lock` sobre un
   "ADN" de la pista.
 - **Síntesis modular:** kick (Psy / Techno / Hard / Sub / DnB), líneas de bajo

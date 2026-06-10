@@ -1,5 +1,5 @@
 // Service worker — cachea la app para que funcione sin internet.
-const CACHE = 'psystudio-v1';
+const CACHE = 'raveforge-v2';
 const CORE = [
   './',
   './index.html',
