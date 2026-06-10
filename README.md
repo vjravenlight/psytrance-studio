@@ -37,6 +37,8 @@ Es un instrumento + VJ tool todo-en-uno que corre en el navegador, sin instalar 
 - One-shots: Riser, Impacto, Zap, Voz.
 
 ### 🌀 Visuales
+- **Cada género tiene su propio tema visual**: 10 presets con la estética del estilo (psy = fractal hipercolor, techno = industrial monocromo, goa = mandalas caleidoscópicos, witch = oscuro y lento...) con transiciones suaves y flash sincronizado.
+- **Pulso real del kick** (`u_beat`): zoom-punch y flash exactos al golpe del secuenciador, no al análisis FFT.
 - Shaders WebGL: **Portal · Prisma · Raíz · Pliegue · Vórtice · Caleidoscopio**.
 - Presets **Milkdrop** vía [butterchurn](https://github.com/jberg/butterchurn).
 - Cámara, intensidad reactiva al audio.
@@ -78,6 +80,10 @@ Hecho por **Ravenlight** 🦅
 - Web Audio API · WebGL · Web MIDI · MediaRecorder (todo nativo del navegador).
 
 ---
+
+## Extras
+
+- [PROMPTS.md](PROMPTS.md) — 127 prompts de visuales psytrance para generadores de video con IA, organizados por estética y momento del set.
 
 ## Hoja de ruta (próximas mejoras)
 
